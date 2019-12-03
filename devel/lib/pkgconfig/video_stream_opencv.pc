@@ -1,0 +1,8 @@
+prefix=/home/GTL/ksharma/catkin_ws/devel
+
+Name: video_stream_opencv
+Description: Description of video_stream_opencv
+Version: 1.1.5
+Cflags: -I/home/GTL/ksharma/catkin_ws/devel/include
+Libs: -L/home/GTL/ksharma/catkin_ws/devel/lib 
+Requires: 
